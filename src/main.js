@@ -20,6 +20,8 @@ import './utils/error-log' // error log
 
 import * as filters from './filters' // global filters
 
+import '@/custom-component' // 注册自定义组件
+import '@/assets/iconfont/iconfont.css'
 /**
  * If you don't want to use mock-server
  * you want to use MockJs for mock api
